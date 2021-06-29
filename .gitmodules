@@ -1,0 +1,6 @@
+[submodule "faculdade-back"]
+	path = faculdade-back
+	url = https://github.com/joao-lim4/faculdade-back.git
+[submodule "faculdade-front"]
+	path = faculdade-front
+	url = https://github.com/joao-lim4/faculdade-front.git
